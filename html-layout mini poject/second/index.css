@@ -1,0 +1,65 @@
+html,body{
+    margin: 0;
+    padding: 25px;
+}
+.main_header{
+    background-color:white;
+    border: solid 5px;
+    height: 200px;
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
+
+.main_header2{
+    background-color:white;
+    border: dotted 5px;
+    height: 20vh;
+    margin-top: 20px;
+      
+}
+
+.header_3{
+    height: 45vh;
+    background-color: rgb(77, 66, 66);
+    width: 60%;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+
+.purple{
+    background-color: purple;
+    height: 10vh;
+    width: 30px;
+    margin: auto;
+   display: inline-block;
+}
+
+.green{
+    background-color: green;
+    height: 18vh;
+    width: 20%;
+    margin: auto;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+.blue{
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+.shadow_box{
+    box-shadow: 10px 5px 5px black;
+}
+
+
+
